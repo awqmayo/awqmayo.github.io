@@ -2,7 +2,7 @@
   "name": "tradeoffrevised",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://awqmayo.github.io",
+  "homepage": "http://awqmayo.github.io/awqmayo.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
