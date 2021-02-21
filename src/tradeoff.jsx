@@ -304,16 +304,40 @@ class Tradeoff extends Component {
                   <text x = {50} y = {350}>0.8</text>
                   <text x = {50} y = {310}>1</text>
                   <text x = {455} y = {510}>0</text>
-                  <text x = {455} y = {470}>0.2</text>
-                  <text x = {455} y = {430}>0.4</text>
-                  <text x = {455} y = {390}>0.6</text>
-                  <text x = {455} y = {350}>0.8</text>
+                  <text x = {445} y = {470}>0.2</text>
+                  <text x = {445} y = {430}>0.4</text>
+                  <text x = {445} y = {390}>0.6</text>
+                  <text x = {445} y = {350}>0.8</text>
                   <text style = {{size:8}} x = {455} y = {310}>1</text>
                   {
                     threeGraphs
                     ? <text x = {190} y = {600}>1</text>
 
                     : <text x = {50} y = {600}>1</text>
+                  }
+                  {
+                    threeGraphs
+                    ? <text x = {190} y = {640}>0.8</text>
+
+                    : <text x = {50} y = {640}>0.8</text>
+                  }
+                  {
+                    threeGraphs
+                    ? <text x = {190} y = {680}>0.6</text>
+
+                    : <text x = {50} y = {680}>0.6</text>
+                  }
+                  {
+                    threeGraphs
+                    ? <text x = {190} y = {720}>0.4</text>
+
+                    : <text x = {50} y = {720}>0.4</text>
+                  }
+                  {
+                    threeGraphs
+                    ? <text x = {190} y = {760}>0.2</text>
+
+                    : <text x = {50} y = {760}>0.2</text>
                   }
                   {
                     threeGraphs
@@ -324,6 +348,30 @@ class Tradeoff extends Component {
                     threeGraphs
                     ? <text x = {190} y = {790}> </text>
                     : <text x = {460} y = {600}>1</text>
+                  }
+                   {
+                    threeGraphs
+                    ? <text x = {190} y = {640}></text>
+
+                    : <text x = {452} y = {640}>0.8</text>
+                  }
+                  {
+                    threeGraphs
+                    ? <text x = {190} y = {680}></text>
+
+                    : <text x = {452} y = {680}>0.6</text>
+                  }
+                  {
+                    threeGraphs
+                    ? <text x = {190} y = {720}></text>
+
+                    : <text x = {452} y = {720}>0.4</text>
+                  }
+                  {
+                    threeGraphs
+                    ? <text x = {190} y = {760}></text>
+
+                    : <text x = {452} y = {760}>0.2</text>
                   }
                   {
                     threeGraphs
