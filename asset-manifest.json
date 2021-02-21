@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/awqmayo.github.io/static/css/main.d2af0bb1.chunk.css",
+    "main.js": "/awqmayo.github.io/static/js/main.fe0efee2.chunk.js",
+    "main.js.map": "/awqmayo.github.io/static/js/main.fe0efee2.chunk.js.map",
+    "runtime-main.js": "/awqmayo.github.io/static/js/runtime-main.1c8f1cf8.js",
+    "runtime-main.js.map": "/awqmayo.github.io/static/js/runtime-main.1c8f1cf8.js.map",
+    "static/js/2.7280d107.chunk.js": "/awqmayo.github.io/static/js/2.7280d107.chunk.js",
+    "static/js/2.7280d107.chunk.js.map": "/awqmayo.github.io/static/js/2.7280d107.chunk.js.map",
+    "static/js/3.6cf038d6.chunk.js": "/awqmayo.github.io/static/js/3.6cf038d6.chunk.js",
+    "static/js/3.6cf038d6.chunk.js.map": "/awqmayo.github.io/static/js/3.6cf038d6.chunk.js.map",
+    "index.html": "/awqmayo.github.io/index.html",
+    "static/css/main.d2af0bb1.chunk.css.map": "/awqmayo.github.io/static/css/main.d2af0bb1.chunk.css.map",
+    "static/js/2.7280d107.chunk.js.LICENSE.txt": "/awqmayo.github.io/static/js/2.7280d107.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/awqmayo.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c8f1cf8.js",
+    "static/js/2.7280d107.chunk.js",
+    "static/css/main.d2af0bb1.chunk.css",
+    "static/js/main.fe0efee2.chunk.js"
+  ]
+}
